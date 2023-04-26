@@ -15,4 +15,8 @@ defmodule Trysonar do
   def hello do
     :world
   end
+
+  def hello2 do
+    :ff
+  end
 end
